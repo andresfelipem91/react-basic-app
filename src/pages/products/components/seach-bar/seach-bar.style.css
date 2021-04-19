@@ -1,0 +1,13 @@
+.seach-bar-container{
+    width: 95%;
+    margin: 0 auto;
+    min-height: 75px;
+    border: 1px solid blue;
+    padding: 10px;
+    margin-top: 10px;
+    text-align: left;
+   
+}
+.seach-input{
+    margin-bottom: 10px;
+}

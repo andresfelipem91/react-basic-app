@@ -1,0 +1,10 @@
+.product-table-container{
+    width: 95%;
+    margin: 0 auto;
+    min-height: 270px;
+    border: 1px solid green;
+    margin-top: 10px;
+    padding-right: 200px;
+    font-weight: bold;
+}
+
